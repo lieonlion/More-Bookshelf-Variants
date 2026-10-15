@@ -27,6 +27,7 @@ public class MoreBookshelfVariants implements ModInitializer {
         fireBlock.setFlammable(MbvBlockInit.DARK_OAK_BOOKSHELF, 30, 20);
         fireBlock.setFlammable(MbvBlockInit.MANGROVE_BOOKSHELF, 30, 20);
         fireBlock.setFlammable(MbvBlockInit.CHERRY_BOOKSHELF, 30, 20);
+        fireBlock.setFlammable(MbvBlockInit.PALE_OAK_BOOKSHELF, 30, 20);
         fireBlock.setFlammable(MbvBlockInit.BAMBOO_BOOKSHELF, 30, 20);
     }
 
